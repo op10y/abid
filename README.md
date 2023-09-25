@@ -3,6 +3,8 @@
 - Phone: +91 0000000000
 - Location: Kashmir
 - Website: [www.opty.com](http://www.opty.tech)
+  ##checkout this repo live page
+- live page: [www.opty.com/abiid](http://op10y.github.iiio/abid)
 
 ## Objective
 Aspiring front-end web developer with a B.Tech in Computer Science seeking opportunities to apply my skills and creativity to create visually appealing and user-friendly web experiences.
