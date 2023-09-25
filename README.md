@@ -4,7 +4,7 @@
 - Location: Kashmir
 - Website: [www.opty.com](http://www.opty.tech)
 - 
-##checkout this repo live page
+## Checkout this repo live page
 
 - live page: [www.opty.com/abiid](http://op10y.github.iiio/abid)
 
