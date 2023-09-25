@@ -3,7 +3,9 @@
 - Phone: +91 0000000000
 - Location: Kashmir
 - Website: [www.opty.com](http://www.opty.tech)
-  ##checkout this repo live page
+- 
+##checkout this repo live page
+
 - live page: [www.opty.com/abiid](http://op10y.github.iiio/abid)
 
 ## Objective
